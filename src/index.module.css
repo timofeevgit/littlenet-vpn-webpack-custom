@@ -1,0 +1,8 @@
+.button {
+  border-color: blue;
+  padding: 20px;
+  background-color: red;
+}
+::placeholder {
+color: gray;
+} 
